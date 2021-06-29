@@ -9,7 +9,7 @@ This is a beginner level task for practicing implicit and explicit numeric conve
 3. Build a solution in [Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/building-and-cleaning-projects-and-solutions-in-visual-studio). Make sure there are **no compiler errors and warnings**, fix these issues and rebuild the solution.
 4. Run all unit tests with [Visual Studio](https://docs.microsoft.com/en-us/visualstudio/test/run-unit-tests-with-test-explorer) and make sure there are **no failed unit tests**. Fix your code to [make all tests GREEN](https://stackoverflow.com/questions/276813/what-is-red-green-testing).
 5. Review all your changes in the codebase **before** [staging the changes and creating a commit](https://docs.microsoft.com/en-us/azure/devops/repos/git/commits).
-6. [Stage your changes, create a commit](https://docs.microsoft.com/en-us/azure/devops/repos/git/commits) and publish your changes to the remote repository.
+6. [Stage your changes, create a commit](https://docs.microsoft.com/en-us/azure/devops/repos/git/commits) and publish your changes to a remote repository.
 
 ## See also
 
